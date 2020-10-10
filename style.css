@@ -1,0 +1,62 @@
+*
+{
+    background: #E0EAFC;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    align-items: center;
+}
+.main
+{
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+    align-items: center;
+    width: 100%;
+    max-width: 1000px;
+    margin-right: 100px;
+
+}
+.title
+{
+    font-weight: 800;
+    padding-top: 100px;
+    
+}
+.footer
+{
+    font-weight: bold;
+}
+
+.pie
+{
+    display: inline-flex;
+}
+.sociales
+{
+    list-style: none;
+    text-decoration: none;
+    display: inline-block;
+    padding: 6px 0px;
+}
+.redes .sociales li 
+{
+    float: right;
+}
+.redes .sociales{
+    float: right;
+}
+.redes .sociales ul 
+{
+    list-style: none;
+}
+.redes .sociales ul li a
+{
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    padding: 10px 15px;
+    font-style: italic;
+}
+.redes .sociales ul li a:hover
+{
+    color: brown;
+}
